@@ -33,7 +33,7 @@ What I plan to study next to improve my backend development skills:
 
 I'm continually updating this list as I progress!
 
-### 💻 Resources for Practice
+### 📖 Study & Practice Resources
 
 My profiles:
 

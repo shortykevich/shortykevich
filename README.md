@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! Nice to see you! 👋
 
 I'm Kirill, a backend developer focusing on building scalable APIs.
 
@@ -39,3 +39,5 @@ I'm continually updating this list as I progress!
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shrtyk)
 
 Feel free to connect or collaborate!
+
+![Codewars](https://github.r2v.ch/codewars?user=shortyk_tw&stroke=%23BB432C&theme=gradient&top_languages=true)

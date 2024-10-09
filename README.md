@@ -19,7 +19,7 @@ I'm Kirill, a backend developer focusing on building scalable APIs.
 
 ### 📚 Study Goals
 
-Here’s what I plan to study next to improve my backend development skills:
+What I plan to study next to improve my backend development skills:
 
 - **Caching**
   - Redis, Memcached
@@ -33,6 +33,14 @@ Here’s what I plan to study next to improve my backend development skills:
 
 I'm continually updating this list as I progress!
 
+### 💻 Resources for Practice
+
+My profiles:
+
+- **[Hexlet](https://ru.hexlet.io/u/shortyk)**
+- **[Codewars](https://www.codewars.com/users/shortyk_tw)**
+- **[Leetcode](https://leetcode.com/u/shortyk/)**
+
 ### 📬 Contact Info
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shortykofficial@gmail.com)
@@ -40,4 +48,5 @@ I'm continually updating this list as I progress!
 
 Feel free to connect or collaborate!
 
-![Codewars](https://github.r2v.ch/codewars?user=shortyk_tw&stroke=%23BB432C&theme=gradient&top_languages=true)
+[![Codewars](https://github.r2v.ch/codewars?user=shortyk_tw&stroke=%23BB432C&theme=gradient&top_languages=true)](https://www.codewars.com/users/shortyk_tw)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortykevich&hide=TeX&layout=compact)

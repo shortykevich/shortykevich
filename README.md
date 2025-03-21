@@ -2,8 +2,6 @@
 
 I'm Kirill, a backend developer focusing on building scalable APIs.
 
-- 🌱 I’m currently focused on backend development and all realted staff.
-
 ### 🛠️ Languages & Tools:
 - **Backend**: Python, Flask, Django, FastAPI
 - **Database**: PostgreSQL, MySQL, SQLAlchemy, SQLite

@@ -4,21 +4,15 @@ I'm Kirill, a backend developer focusing on building scalable APIs.
 
 ### 🛠️ Languages & Tools:
 - **Backend**: Python, Flask, Django, FastAPI
-- **Database**: PostgreSQL, MySQL, SQLAlchemy, SQLite
+- **Database**: PostgreSQL, MySQL, SQLAlchemy, SQLite, Redis
 - **DevOps**: GitHub Actions, Docker, Vagrant
 - **Testing**: Pytest, Unit Testing
 
 ### 📚 Study Goals
 
-What I plan to study next to improve my backend development skills:
-
-- **Caching**
-  - Redis, Memcached
 - **System Design & Architecture**
   - Microservices architecture deep dive
   - Database scaling strategies
-
-I'm continually updating this list as I progress!
 
 ### 📖 Study & Practice Resources
 

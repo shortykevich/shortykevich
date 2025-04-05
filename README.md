@@ -27,7 +27,5 @@ My profiles:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shortykofficial@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shrtyk)
 
-Feel free to connect or collaborate!
-
 [![Codewars](https://github.r2v.ch/codewars?user=shortyk_tw&stroke=%23BB432C&theme=gradient&top_languages=true)](https://www.codewars.com/users/shortyk_tw)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortykevich&hide=TeX&layout=compact)

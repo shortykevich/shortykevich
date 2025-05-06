@@ -12,6 +12,7 @@ I'm Kirill, a backend developer focusing on building scalable APIs.
 My humble reading list:
 - [~~Computer Systems: A Programmer’s Perspective (CS:APP) by Randal E. Bryant & David R. O’Hallaron~~](https://csapp.cs.cmu.edu/)
 - [~~Operating Systems: Three Easy Pieces (OSTEP) by Remzi H. Arpaci-Dusseau & Andrea C. Arpaci-Dusseau~~](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Computer Networking: a Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work by Alex Petrov](https://www.databass.dev/)  
 - [100 Go Mistakes and How to Avoid Them by Teiva Harsanyi](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 

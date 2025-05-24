@@ -3,10 +3,10 @@
 I'm Kirill, a backend developer focusing on building scalable APIs.
 
 ### 🛠️ Languages & Tools:
-- **Backend**: Python, Flask, Django, FastAPI
+- **Languages**: Go, Python
 - **Database**: PostgreSQL, MySQL, SQLAlchemy, SQLite, Redis
 - **DevOps**: GitHub Actions, Docker, Vagrant
-- **Testing**: Pytest, Unit Testing
+- **Testing**: Fastify, Pytest, Unit Testing
 
 ### 📖 Study:
 My humble reading list:

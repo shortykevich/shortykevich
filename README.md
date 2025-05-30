@@ -34,4 +34,4 @@ Practice Resources:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrtyk&hide=TeX&layout=compact)
 
-![Codewars](https://www.codewars.com/users/shortyk_tw/badges/small)
+[![Codewars](https://www.codewars.com/users/shortyk_tw/badges/small)](https://www.codewars.com/users/shortyk_tw)

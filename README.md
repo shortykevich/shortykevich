@@ -5,7 +5,7 @@ I'm Kirill, a backend developer focusing on building scalable APIs.
 ### 🛠️ Languages & Tools:
 - **Languages**: Go, Python
 - **Database**: PostgreSQL, MySQL, SQLAlchemy, SQLite, Redis
-- **DevOps**: GitHub Actions, Docker, Vagrant
+- **DevOps**: GitHub Actions, Docker
 - **Testing**: Testify, Pytest, Unit Testing
 
 ### 📖 Study:
